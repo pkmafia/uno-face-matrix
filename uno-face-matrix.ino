@@ -4,6 +4,7 @@
 //  www.adafruit.com/products/871   www.adafruit.com/products/1050
 //  www.adafruit.com/products/872   www.adafruit.com/products/1051
 //  www.adafruit.com/products/959   www.adafruit.com/products/1052
+//  www.adanut.com
 //
 // Requires Adafruit_LEDBackpack and Adafruit_GFX libraries.
 // For a simpler introduction, see the 'matrix8x8' example.
